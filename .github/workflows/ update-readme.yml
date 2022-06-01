@@ -1,8 +1,8 @@
-name: Mise à jour de l'activité récente sur le readme
+name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/50 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: ':fire: Update README with the recent activity'
-          MAX_LINES: 5
