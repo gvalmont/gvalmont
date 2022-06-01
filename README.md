@@ -3,7 +3,6 @@ Professeur de mathématiques au collège, j'essaie de m'améliorer dans mon mét
 
 Et sur le temps libre de mon temps libre, j'apprends à parler japonais, à jouer du piano, je joue à des jeux vidéos (Fire Emblem, Final Fantasy, Legends of Runeterra) ou je regarde des compétitions de Smash Ultimate ! 🤩
 
-### 🔥 Activité récente
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
