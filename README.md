@@ -1,5 +1,5 @@
 ### Salut ! 👋
-Professeur de mathématiques au collège, j'essaie de m'améliorer dans mon métier (classes coopératives ✊) et je développe des outils pour m'y aider sur mon temps libre (principalement des exercices pour [MathALÉA](https://coopmaths.fr/mathalea.html?) et mon site [topmaths.fr](https://topmaths.fr/#/) mais aussi plein de petits outils que je trouve bien pratiques !)
+Professeur de mathématiques au collège, j'essaie de m'améliorer dans mon métier et je développe des outils pour m'y aider sur mon temps libre (principalement des exercices pour [MathALÉA](https://coopmaths.fr/mathalea.html?) et mon site [topmaths.fr](https://topmaths.fr/#/) mais aussi plein de petits outils que je trouve bien pratiques !)
 
 Et sur le temps libre de mon temps libre, j'apprends à parler japonais, à jouer du piano, je joue à des jeux vidéos ou je regarde des compétitions d'e-sport !
 
